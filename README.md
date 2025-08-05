@@ -145,8 +145,8 @@ href="https://home.akirax.net"><img src="https://raw.githubusercontent.com/The-K
 
 * Dashboard : [`Dash`](https://home.akirax.net)
 * Panel : [`Panel`](https://console.akirax.net)
-* Canal de WhatsApp : [`Aqui`](https://whatsapp.com/channel/0029VbBCchVDJ6H6prNYfz2z)
-* Grupo Oficial : [`Aquí`](https://chat.whatsapp.com/JxSZTFJN9J20TnsH7KsKTA)
+* Canal de WhatsApp : [`Aqui`(https://whatsapp.com/channel/0029VbBfmjK9cDDcAL33Gi3x)
+* Grupo Oficial : [`Aquí`](https://chat.whatsapp.com/HSNqUnIAFjV2XtpMxtpkRD?mode=ac_t)
 
 </details>
 
@@ -157,22 +157,22 @@ href="https://home.akirax.net"><img src="https://raw.githubusercontent.com/The-K
 <details>
   <summary><b>👥 Grupos Oficiales</b></summary>
 
-- 📢 [Canal Oficial](https://whatsapp.com/channel/0029VakLbM76mYPPFL0IFI3P)
-- 🌐 [Comunidad Global](https://chat.whatsapp.com/K2CPrOTksiA36SW6k41yuR)
+- 📢 [Canal Oficial](https://whatsapp.com/channel/0029VbBfmjK9cDDcAL33Gi3x)
+- 🌐 [Comunidad Global](https://chat.whatsapp.com/HSNqUnIAFjV2XtpMxtpkRD?mode=ac_t)
 
 </details>
 
 <details>
   <summary><b>📞 Contacto</b></summary>
 
-- 📱 WhatsApp: 18294868853
+- 📱 WhatsApp: 7225305296 
 - 📧 Email: dioneibipaselomendes@gmail.com
 
 </details>
 
 ---
 
-## 👑 𝐂𝐫𝐞𝐚𝐝𝐨𝐫 𝐝𝐞 𝐑𝐮𝐛𝐲
+## 👑 𝐂𝐫𝐞𝐚𝐝𝐨𝐫 𝐝𝐞 Itsuķi 
 
 
 <a href="https://github.com/Emmax08"><img src="https://github.com/Emmax08.png" width="250" height="250" alt="Emmax"/></a>
@@ -183,7 +183,7 @@ href="https://home.akirax.net"><img src="https://raw.githubusercontent.com/The-K
 <a href="https://github.com/nevi-dev" style="display:inline-block; text-decoration: none;">
     <img src="https://github.com/Dioneibi-rip.png" width="130" height="130" alt="Dioneibi" style="border-radius: 50%;"/>
 </a>
-<a href="https://github.com/Legna-chan" style="display:inline-block; margin-right: 10px; text-decoration: none;">
+<a href="https://github.com/Dioneibi-rip" style="display:inline-block; margin-right: 10px; text-decoration: none;">
     <img src="https://github.com/Dioneibi-rip.png" width="130" height="130" alt="nevi developer" style="border-radius: 50%;"/>
 </a>
 
