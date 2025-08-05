@@ -2,7 +2,7 @@
 <h1 align="center">👑і𝗍sᥙkі ᥒᥲkᥲᥒ᥆ 🌸</h1>
 
 <p align="center">
-  <img src="https://files.catbox.moe/atnv7f.gif" alt="і𝗍sᥙkі ᥒᥲkᥲᥒ᥆ Bot Preview" />
+  <img src="https://files.catbox.moe/r0p7n6.mp4" alt="і𝗍sᥙkі ᥒᥲkᥲᥒ᥆ Bot Preview" />
 </p>
 
 
