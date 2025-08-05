@@ -1,8 +1,8 @@
 
-<h1 align="center">🌸 𝙍𝙪𝙗𝙮 𝙃𝙤𝙨𝙝𝙞𝙣𝙤 🌸</h1>
+<h1 align="center">👑і𝗍sᥙkі ᥒᥲkᥲᥒ᥆ 🌸</h1>
 
 <p align="center">
-  <img src="https://files.catbox.moe/atnv7f.gif" alt="Ruby Hoshino Bot Preview" />
+  <img src="https://files.catbox.moe/atnv7f.gif" alt="і𝗍sᥙkі ᥒᥲkᥲᥒ᥆ Bot Preview" />
 </p>
 
 
@@ -14,7 +14,7 @@
   <summary><b>☁️ 𝐀𝐜𝐥𝐚𝐫𝐚𝐜𝐢o𝐧 𝐥𝐞𝐠𝐚𝐥</b></summary>
 
 > 🚫 **Este proyecto NO está afiliado a WhatsApp ni WhatsApp LLC.**  
-> un bot hecho 100% independiente, la base del bot es de Yuki Suou. bot personalizado por **Dioneibi‑rip**.
+> un bot hecho 100% independiente, la base del bot es de Yuki Suou. bot personalizado por **Emmax-kun**.
 </details>
 
 ---
@@ -109,7 +109,7 @@ npm start
   <summary><b>🔁 Cómo reiniciarlo en Termux</b></summary>
 
 ```bash
-cd Ruby-Hoshino-Bot && npm start
+cd і𝗍sᥙkі ᥒᥲkᥲᥒ᥆-Bot && npm start
 ```
 
 </details>
@@ -122,7 +122,7 @@ cd Ruby-Hoshino-Bot && npm start
   <summary><b>🔑 edita el archivo y Agrega tu número como Owner</b></summary>
 
 ```bash
-cd Ruby-Hoshino-Bot
+cd і𝗍sᥙkі ᥒᥲkᥲᥒ᥆-Bot
 ```
 
 ```bash
@@ -175,16 +175,16 @@ href="https://home.akirax.net"><img src="https://raw.githubusercontent.com/The-K
 ## 👑 𝐂𝐫𝐞𝐚𝐝𝐨𝐫 𝐝𝐞 𝐑𝐮𝐛𝐲
 
 
-<a href="https://github.com/Dioneibi-rip"><img src="https://github.com/Dioneibi-rip.png" width="250" height="250" alt="Dioneibi"/></a>
+<a href="https://github.com/Emmax08"><img src="https://github.com/Emmax08.png" width="250" height="250" alt="Emmax"/></a>
 
 ---
 
 ### **🌺` Colaboradores Especiales `🌟**
 <a href="https://github.com/nevi-dev" style="display:inline-block; text-decoration: none;">
-    <img src="https://github.com/nevi-dev.png" width="130" height="130" alt="legna Mini-dev" style="border-radius: 50%;"/>
+    <img src="https://github.com/Dioneibi-rip.png" width="130" height="130" alt="Dioneibi" style="border-radius: 50%;"/>
 </a>
 <a href="https://github.com/Legna-chan" style="display:inline-block; margin-right: 10px; text-decoration: none;">
-    <img src="https://github.com/Legna-chan.png" width="130" height="130" alt="nevi developer" style="border-radius: 50%;"/>
+    <img src="https://github.com/Dioneibi-rip.png" width="130" height="130" alt="nevi developer" style="border-radius: 50%;"/>
 </a>
 
 ---
