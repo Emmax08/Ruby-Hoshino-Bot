@@ -7,7 +7,7 @@ import axios from 'axios';
 const cooldowns = new Map();
 const ultimoMenuEnviado = new Map();
 
-const newsletterJid = '120363401893800327@newsletter';
+const newsletterJid = '120363422310218834@newsletter';
 const newsletterName = '⏤͟͞ू⃪፝͜⁞⟡ і𝗍sᥙkі ᥒᥲkᥲᥒ᥆\'s 𝐒ervice';
 const packname = '˚і𝗍sᥙkі ᥒᥲkᥲᥒ᥆-bot';
 
@@ -65,7 +65,7 @@ let handler = async (m, { conn, usedPrefix }) => {
   const videoGif = enlacesMultimedia.video[Math.floor(Math.random() * enlacesMultimedia.video.length)];
   const miniaturaRandom = enlacesMultimedia.imagen[Math.floor(Math.random() * enlacesMultimedia.imagen.length)];
 
-  const redes = 'https://whatsapp.com/channel/0029Vb60E6xLo4hbOoM0NG3D';
+  const redes = 'https://whatsapp.com/channel/0029VbBfmjK9cDDcAL33Gi3x';
 
   const emojis = {
     'main': '🪽', 'tools': '🛠️', 'audio': '🎧', 'group': '👥',
@@ -156,7 +156,7 @@ let handler = async (m, { conn, usedPrefix }) => {
     },
     externalAdReply: {
       title: packname,
-      body: '👑 Menú de Comandos | mᥲríᥲ k᥆ȷᥙ᥆-Bot 🪽',
+      body: '👑 Menú de Comandos | і𝗍sᥙkі ᥒᥲkᥲᥒ᥆-Bot 🪽',
       thumbnailUrl: miniaturaRandom,
       sourceUrl: redes,
       mediaType: 1,
