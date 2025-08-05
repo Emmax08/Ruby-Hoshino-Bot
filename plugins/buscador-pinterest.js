@@ -7,11 +7,11 @@
 import fetch from 'node-fetch';
 import baileys from '@whiskeysockets/baileys';
 
-const newsletterJid = '120363335626706839@newsletter';
-const newsletterName = '⏤͟͞ू⃪፝͜⁞⟡『 𝐑𝐮𝐛𝐲 𝐇𝐨𝐬𝐡𝐢𝐧𝐨 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 』࿐⟡';
-const wm = '🌸 Ruby-Hoshino Bot — powered by Dioneibi-rip';
+const newsletterJid = '120363422310218834@newsletter';
+const newsletterName = '⏤͟͞ू⃪፝͜⁞⟡『 і𝗍sᥙkі ᥒᥲkᥲᥒ᥆ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 』࿐⟡';
+const wm = '🌸 і𝗍sᥙkі ᥒᥲkᥲᥒ᥆ Bot — powered by Dioneibi-rip';
 const icons = 'https://i.imgur.com/Xs41WOr.jpg';
-const channel = 'https://github.com/Dioneibi-rip/Ruby-Hoshino-Bot';
+const channel = 'https://github.com/Emmax08/і𝗍sᥙkі ᥒᥲkᥲᥒ᥆-Bot';
 
 async function sendAlbumMessage(jid, medias, options = {}) {
   if (typeof jid !== "string") throw new TypeError(`jid must be string, received: ${jid}`);
